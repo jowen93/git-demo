@@ -9,4 +9,4 @@ Second paragraph
 
 ## Another heading
 
-Third paragraph
+Third paragraph has been changed
